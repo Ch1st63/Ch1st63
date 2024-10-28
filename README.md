@@ -1,4 +1,4 @@
-#<b>Всех приветствую!</b><br>
+## <b>Всех приветствую!</b><br>
 Меня зовут Чистиков Александр и я дипломированный веб - разработчик 🖥️ <br>
 Опыт: 3 года работы в Figma, 2 года работы в VS code
 
@@ -6,7 +6,6 @@
 Запущенные сайты: https://крылья-мечты-63.рф/index.html.
 <br>
 <br>
-<b>Greetings to all!</b><br>
 My name is Alexander Chistikov and I am a certified web developer. <br>
 Experience: 3 years of work in Figma, 2 years of work in VS code
 
@@ -15,8 +14,9 @@ Running sites: https://крылья-мечты-63.рф/index.html.
 <br>
 <br>
 # My Skill Set <br>
-![image](https://github.com/user-attachments/assets/35fc46eb-1580-4b5c-8dd3-6f3e945bdced)
-![image](https://github.com/user-attachments/assets/dab372c7-10b8-45cf-a4e1-b5072e219b08)
-![image](https://github.com/user-attachments/assets/29fbbe67-3021-4857-942c-7ac2dfcf60cd)
-![image](https://github.com/user-attachments/assets/d1b4c432-0bbe-4e0e-87ec-3dd9a570bcc8)
-![image](https://github.com/user-attachments/assets/d5064993-c4e9-4987-b499-bb3d3449ba58)
+
+![icons8-css](https://github.com/user-attachments/assets/ccb75174-59ab-4b6b-bd64-d07053428cb5)
+![icons8-html](https://github.com/user-attachments/assets/40188f42-8a0f-4ad1-afd0-2f1661d9124b)
+![icons8-js](https://github.com/user-attachments/assets/ce2a8452-6ffb-4ae5-be25-1dcfbc7e4f61)
+![icons8-figma](https://github.com/user-attachments/assets/29701a43-2fbd-4a24-a510-dba2dd3fc875)
+![icons8-vs-code](https://github.com/user-attachments/assets/a93243a2-adb4-4198-a7d7-cc808bc21a74)
