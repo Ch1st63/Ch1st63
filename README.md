@@ -1,16 +1,9 @@
 ## <b>Всех приветствую! Hello everyone! </b><br>
-Меня зовут Чистиков Александр и я дипломированный веб - разработчик 🖥️ <br>
-Опыт: 3 года работы в Figma, 2 года работы в VS code
 
-Портфолио дизайнов: https://drive.google.com/drive/folders/1O51cfTGFZp013LA0FORPzIr094jSKoXT?usp=sharing. <br>
-Запущенные сайты: https://крылья-мечты-63.рф/index.html.
-<br>
-<br>
-My name is Alexander Chistikov and I am a certified web developer. <br>
-Experience: 3 years of work in Figma, 2 years of work in VS code
 
-Design portfolio: https://drive.google.com/drive/folders/1O51cfTGFZp013LA0FORPzIr094jSKoXT?usp=sharing. <br>
-Running sites: https://крылья-мечты-63.рф/index.html.
+
+
+
 <br>
 <br>
 # My Skill Set <br>
