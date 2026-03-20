@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <!-- ANIMATED HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0AFFD9,100:0D0D0D&height=200&section=header&text=&animation=fadeIn" />
@@ -237,7 +237,7 @@ design = [
 </div>
 
 ---
-
+](https://github.com/ch1st63)
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:BD00FF,100:0D0D0D&height=120&section=footer&animation=fadeIn" />
